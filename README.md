@@ -8,3 +8,14 @@ Hadoop이 정상적인 종료를 하지 않았을 때, 에러가 난다.
 $ ./bin/hadoop dfsadmin -safemode leave 
 Safe mode is OFF
 ```
+
+
+ref: cassandra
+```sh
+[카산드라 설치]
+http://jidasung.blogspot.kr/2012/08/hbase-cassandra.html
+[카산드라 사용법]
+CQL:  http://jhproject.tistory.com/51
+
+CQL 사용: http://opentutorials.org/module/1074/7483
+```
